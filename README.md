@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vibhanshu2727
 - 👀 I’m interested in Computers & Evolving Technology
-- 🌱 I’m currently persuing my Bachelors in Technology with specialization in Computer Science & Engineering
+- 🌱 I have completed my Bachelors in Technology with specialization in Computer Science & Engineering 2025
 - 💞️ I’m looking to collaborate on Projects on Machine Learning using Python 
 - 😄 Pronouns: He/Him
 - ⚡ Random Fun fact: Animals can experience time differently from humans.
